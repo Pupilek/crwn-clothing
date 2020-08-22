@@ -1,4 +1,5 @@
-Portfolio projekt: React, Redux, Hooks, Redux devtools extension
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
